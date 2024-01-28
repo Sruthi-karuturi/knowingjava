@@ -1,4 +1,4 @@
-public class palindrome 
+public class Palindrome 
 {
     
     static  boolean isPalindrome(String str){
